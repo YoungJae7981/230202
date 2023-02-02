@@ -3,6 +3,7 @@ let txt = document.querySelector("h1").innerHTML;
 txt = "";
 console.log(txt);
 
+
 // null
 // 값이 없다는 것을 의도적으로 명시하고 싶을 때 사용
 // 변수에 null 값을 할당하는 것은 변수가 이전에 참조하던 값을 더이상 참조하지 않겠다는 의미 가 됨
