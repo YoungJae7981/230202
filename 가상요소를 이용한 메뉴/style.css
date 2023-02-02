@@ -55,6 +55,6 @@
   transform: translateY(-10px) rotate(-45deg);
 }
 
-.ham-btn:hover div {
+/* .ham-btn:hover div {
   transform: scale(0);
-}
+} */
